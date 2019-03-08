@@ -14,5 +14,6 @@ Get a text edit e.g Atom;
 Built With
 Python 
 
-Authors
+Author
+
 Emmanuel Eshofonie 
